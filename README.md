@@ -9,7 +9,7 @@ I'm a Software Engineer/Mathematician🤓 based in NYC🏙 currently in my senio
 
 ## Technologies ⚡
 ***
-<img align='right' src='https://media1.giphy.com/media/1NYkJ0wTvncdXV5dN5/source.gif' width='150px' style='padding-top:20px'>
+<img align='right' src='https://media1.giphy.com/media/1NYkJ0wTvncdXV5dN5/source.gif' width='300px' style='padding-top:20px'>
 
 * Machine learning🧠------------------------------![][Python] ![][Tensorflow]
 * Web scrapping + Discord bots🤖 ---------------![][Python]
