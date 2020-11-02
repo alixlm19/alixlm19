@@ -50,4 +50,4 @@ I'm a Software Engineer/Mathematician🤓 based in NYC🏙 currently in my senio
 [Discord bot servers]: https://top.gg/api/widget/servers/618578333776609291.svg
 [Discord bot upvotes]: https://top.gg/api/widget/upvotes/618578333776609291.svg
 [Discord bot lib]: https://top.gg/api/widget/lib/618578333776609291.svg
-[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=alixlm19&show_icons=true
+[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=alixlm19&show_icons=true 
