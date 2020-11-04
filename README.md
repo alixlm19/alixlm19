@@ -37,7 +37,7 @@ I'm a Software Engineer/Mathematician🤓 based in NYC🏙 currently in my senio
 [codewars]: https://www.codewars.com/users/alixlm19/badges/small
 [Linkedin]: https://img.shields.io/badge/-alixleon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alixleon/
 [Gmail]: https://img.shields.io/badge/-alix.f.leon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alix.f.leon@gmail.com(mailto:alix.f.leon@gmail.com)
-[Discord]: https://img.shields.io/badge/-alix_not_alex%234414-7289DA?style=flat-square&logo=Discord&logoColor=white
+[Discord]: https://img.shields.io/badge/-alix\_not\_alex%234414-7289DA?style=flat-square&logo=Discord&logoColor=white
 [Python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white
 [Tensorflow]: https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white
 [R]: https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white
