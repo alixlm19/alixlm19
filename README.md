@@ -5,7 +5,7 @@
 ![][Gmail]
 ![][Discord]
 
-I'm a Software Engineer/Mathematician🤓 based in NYC🏙 currently in my senior year at Lehman Collge🎓. 
+I'm a Software Engineer/Mathematician🤓 based in NYC🏙 experienced in data analysis, machine learning and backend development.
 
 ## Technologies ⚡
 ***
