@@ -5,7 +5,7 @@
 ![][Gmail]
 ![][Discord]
 
-I'm a Software Engineer/Mathematician🤓 based in NYC🏙 experienced in data analysis, machine learning and backend development.
+I'm a Data Scientist/Mathematician🤓 based in NYC🏙 experienced in data analysis, machine learning and backend development.
 
 ## Technologies ⚡
 ***
@@ -17,7 +17,7 @@ I'm a Software Engineer/Mathematician🤓 based in NYC🏙 experienced in data a
 * Data analysis + manipulation + visualization----![][Python] ![][R]
 * Emulators and data structures -------------------![][C++]
 * Desktop applications and game development --![][C#] ![][Java]
-* Web applications----------------------------------![][Javascript] ![][Python] ![][R]
+* Web applications----------------------------------![][Javascript] ![][Python] ![][R] ![][Go]
 * App deployment ----------------------------------![][Heroku] 
 <br>
 
@@ -40,6 +40,7 @@ I'm a Software Engineer/Mathematician🤓 based in NYC🏙 experienced in data a
 [Discord]: https://img.shields.io/badge/-alix\_not\_alex%234414-7289DA?style=flat-square&logo=Discord&logoColor=white
 [Python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white
 [Tensorflow]: https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white
+[Go]: https://img.shields.io/badge/-Golang-29BEB0?style=flat-square&logo=Go&logoColor=white
 [R]: https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white
 [C++]: https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white
 [C#]: https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c%20Sharp&logoColor=white
