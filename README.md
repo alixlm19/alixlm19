@@ -1,54 +1,31 @@
-## Hey! I'm Alix <img src='https://image.flaticon.com/icons/svg/3135/3135539.svg' width='30px'>
-***
-![][codewars]
-![][Linkedin]
-![][Gmail]
-![][Discord]
+## Hi there! 👋
 
-I'm a Data Scientist/Mathematician🤓 based in NYC🏙 experienced in data analysis, machine learning and backend development.
+I'm Alix Leon, a passionate **Machine Learning Engineer** and **Data Scientist** based in **New York**. My journey intertwines computer science and statistics, enabling me to tackle complex problems with innovative solutions.
 
-## Technologies ⚡
-***
-<img align='right' src='https://media1.giphy.com/media/1NYkJ0wTvncdXV5dN5/source.gif' width='300px' style='padding-top:20px'>
-<br>
+## About Me
 
-* Machine learning🧠------------------------------![][Python] ![][Tensorflow]
-* Web scrapping + Discord bots🤖 ---------------![][Python]
-* Data analysis + manipulation + visualization----![][Python] ![][R]
-* Emulators and data structures -------------------![][C++]
-* Desktop applications and game development --![][C#] ![][Java]
-* Web applications----------------------------------![][Javascript] ![][Python] ![][R] ![][Go]
-* App deployment ----------------------------------![][Heroku] 
-<br>
+With a unique blend of skills in computer science, statistics, and software engineering, I currently work at [TheCRM](https://github.com/TheCRM). I'm committed to leveraging data to drive impactful decisions and enhance user experiences. You can find more about my work on my personal website: [alixleon.me](https://alixleon.me).
 
-## My work ⚒
-***
-### Chucho San Discord bot 
-![][Discord bot status] ![][Discord bot servers] ![][Discord bot lib] 
+## Skills & Technologies
 
-### Poor State, Rich State web app
-- Built with : ![][R]
-- [OSF Research Repository](https://osf.io/wus3m/)
-- Visit the [Site](https://alixleon.shinyapps.io/reu-project/)
+[![My Skills](https://skillicons.dev/icons?i=linux,rust,py,cpp,docker,aws,gcp,fastapi,postgres,tensorflow,pytorch,opencv&perline=8)](https://skillicons.dev)
 
-## GitHub Stats 💻
-![][GitHub Stats]
+## Recent Activity
 
-[codewars]: https://www.codewars.com/users/alixlm19/badges/small
-[Linkedin]: https://img.shields.io/badge/-alixleon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alixleon/
-[Gmail]: https://img.shields.io/badge/-alix.f.leon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alix.f.leon@gmail.com(mailto:alix.f.leon@gmail.com)
-[Discord]: https://img.shields.io/badge/-alix\_not\_alex%234414-7289DA?style=flat-square&logo=Discord&logoColor=white
-[Python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white
-[Tensorflow]: https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white
-[Go]: https://img.shields.io/badge/-Golang-29BEB0?style=flat-square&logo=Go&logoColor=white
-[R]: https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white
-[C++]: https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white
-[C#]: https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c%20Sharp&logoColor=white
-[Java]: https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white
-[Javascript]: https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black
-[Heroku]: https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white
-[Discord bot status]: https://top.gg/api/widget/status/618578333776609291.svg
-[Discord bot servers]: https://top.gg/api/widget/servers/618578333776609291.svg
-[Discord bot upvotes]: https://top.gg/api/widget/upvotes/618578333776609291.svg
-[Discord bot lib]: https://top.gg/api/widget/lib/618578333776609291.svg
-[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=alixlm19&show_icons=true 
+- Created a new repository [English-Spanish-Translation-with-Transformers](https://github.com/alixlm19/English-Spanish-Translation-with-Transformers)  
+- Contributed to [data-engineering-zoomcamp](https://github.com/alixlm19/data-engineering-zoomcamp)  
+- Updated the [Neural-Network-From-Scratch](https://github.com/alixlm19/Neural-Network-From-Scratch) with additional examples  
+- Reviewed pull requests on various repositories  
+- Participated in discussions regarding new features on [Bl0ckchain](https://github.com/alixlm19/Bl0ckchain)
+
+## Latest Blog Posts
+
+Check out my latest posts on my [blog](https://alixleon.me):  
+- Building Neural Networks with Python  
+- Understanding Blockchain Technology  
+- Data Engineering Best Practices  
+- Exploring Machine Learning Algorithms
+
+## Connect with Me
+
+<a href="https://linkedin.com/in/alixleon/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
